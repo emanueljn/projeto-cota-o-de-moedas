@@ -1,1 +1,1 @@
-# projeto-cota-o-de-moedas
+# projeto-cotacao-de-moedas
