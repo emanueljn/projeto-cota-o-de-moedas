@@ -32,7 +32,7 @@ Foi desenvolvido, por meio de um desafio Challenge Conversor de Moedas, do Proje
 
 ## Autor
 
-[Emanuel de Jesus Nardes</sub>](https://github.com/emanueljn)>
+[Emanuel de Jesus Nardes</sub>](https://github.com/emanueljn)
 
 ## Licença
 
