@@ -1,4 +1,5 @@
-![Imagem da logo do projeto Conversor de moedas, desenvolvido por Emanuel de Jesus Nardes](https://github.com/emanueljn/projeto-cotacao-de-moedas/assets/141789277/94411608-ed10-4f1b-b856-1dc1dc2e2ba6)
+![Imagem da logo do projeto Conversor de moedas, desenvolvido por Emanuel de Jesus Nardes](https://github.com/emanueljn/projeto-cotacao-de-moedas/assets/141789277/cdf204ad-93f8-4ba7-8759-0a0f1fc55fac)
+
 
 Este é um projeto de um Conversor de Moeda em Java, onde você pode converter entre algumas moedas populares usando as taxas de câmbio atuais.
 Foi desenvolvido, por meio de um desafio Challenge Conversor de Moedas, do Projeto ONE Oracle Next Education Alura + Oracle, a qual faço parte como estudante, em 2024.
