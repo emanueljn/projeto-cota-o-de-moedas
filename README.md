@@ -32,8 +32,7 @@ Foi desenvolvido, por meio de um desafio Challenge Conversor de Moedas, do Proje
 
 ## Autor
 
-[Emanuel de Jesus Nardes]
-
+<img loading="lazy" src="https://avatars.githubusercontent.com/u/emanueljn" width=115<br><sub>Emanuel de Jesus Nardes</sub>](https://github.com/emanueljn)alt="Avatar do usuário">
 
 ## Licença
 
